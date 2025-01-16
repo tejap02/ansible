@@ -12,4 +12,4 @@ MS1 ansible_python_interpreter=/usr/bin/python3.12
 [ws2]
 MS2 ansible_python_interpreter=/usr/bin/python3.12
 #MS2 ansible_host=3.94.165.14 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/shubhamkey.pem
-root@CS:/etc/ansible#
+
